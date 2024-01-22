@@ -1,2 +1,2 @@
 # nise
-Ni(kasha +)Se(tayesh)
+Ni(kasha +)Se(tayesh)+Ad(hara)
